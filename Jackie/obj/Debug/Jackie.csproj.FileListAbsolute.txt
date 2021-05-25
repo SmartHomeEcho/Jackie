@@ -1,0 +1,7 @@
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Jackie Stewart\Jackie\Jackie\bin\Debug\Jackie.exe.config
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Jackie Stewart\Jackie\Jackie\bin\Debug\Jackie.exe
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Jackie Stewart\Jackie\Jackie\bin\Debug\Jackie.pdb
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Jackie Stewart\Jackie\Jackie\obj\Debug\Jackie.csprojAssemblyReference.cache
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Jackie Stewart\Jackie\Jackie\obj\Debug\Jackie.csproj.CoreCompileInputs.cache
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Jackie Stewart\Jackie\Jackie\obj\Debug\Jackie.exe
+C:\Users\Smarthomeecho\Desktop\Új feladatok C#\Jackie Stewart\Jackie\Jackie\obj\Debug\Jackie.pdb
